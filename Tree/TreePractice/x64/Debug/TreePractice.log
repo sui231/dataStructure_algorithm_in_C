@@ -1,0 +1,13 @@
+﻿  BiTreePractice1.c
+D:\C\data structure\TreePractice\BiTreePractice1.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C\data structure\TreePractice\BiTreePractice1.c(152,10): warning C4033: “WidthBiTree”必须返回值
+D:\C\data structure\TreePractice\BiTreePractice1.c(174,3): warning C4033: “GetWidth”必须返回值
+  main.c
+  正在生成代码...
+D:\C\data structure\TreePractice\BiTreePractice1.c(168): warning C4715: “WidthBiTree”: 不是所有的控件路径都返回值
+D:\C\data structure\TreePractice\BiTreePractice1.c(182): warning C4715: “GetWidth”: 不是所有的控件路径都返回值
+main.obj : error LNK2005: DeQueue 已经在 BiTreePractice1.obj 中定义
+main.obj : error LNK2005: EnQueue 已经在 BiTreePractice1.obj 中定义
+main.obj : error LNK2005: InitQueue 已经在 BiTreePractice1.obj 中定义
+main.obj : error LNK2005: IsEmpty 已经在 BiTreePractice1.obj 中定义
+D:\C\data structure\TreePractice\x64\Debug\TreePractice.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

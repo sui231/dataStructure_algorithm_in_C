@@ -1,0 +1,2 @@
+C:\Users\fjw\source\repos\If_linklist_loop\x64\Debug\If_linklist_ring.exe
+C:\Users\fjw\source\repos\linklist_practice\x64\Debug\linklist_practice.exe

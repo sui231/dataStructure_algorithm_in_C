@@ -1,0 +1,10 @@
+﻿  Table.c
+  Tree.c
+D:\code\C\data structure\Tree\HuffmanTree\Table.c(45,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HuffmanTree(only).c
+  main.c
+D:\code\C\data structure\Tree\HuffmanTree\main.c(8,6): warning C4013: “strcspn”未定义；假设外部返回 int
+  Queue.c
+  正在生成代码...
+D:\code\C\data structure\Tree\HuffmanTree\main.c(11,1): warning C4172: 返回局部变量的地址或临时 : str
+  HuffmanTree.vcxproj -> D:\code\C\data structure\Tree\HuffmanTree\x64\Debug\HuffmanTree.exe

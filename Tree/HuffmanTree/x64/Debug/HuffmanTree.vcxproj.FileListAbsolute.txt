@@ -1,0 +1,2 @@
+D:\C\C++\HuffmanTree\x64\Debug\HuffmanTree.exe
+D:\C\data structure\HuffmanTree\x64\Debug\HuffmanTree.exe

@@ -1,0 +1,20 @@
+﻿  LinkList.c
+D:\C\data structure\DataStructurePractice\LinkList.h(34,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“LinkList.c”)
+  
+D:\C\data structure\DataStructurePractice\LinkList.h(36,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“LinkList.c”)
+  
+D:\C\data structure\DataStructurePractice\LinkList.h(88,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  (编译源文件“LinkList.c”)
+  D:\C\data structure\DataStructurePractice\LinkList.h(88,10):
+  占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  D:\C\data structure\DataStructurePractice\LinkList.h(88,10):
+  缺失的可变参数 1 为格式字符串“%c”所需
+  
+D:\C\data structure\DataStructurePractice\LinkList.c(140,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C\data structure\DataStructurePractice\LinkList.c(141,33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C\data structure\DataStructurePractice\LinkList.c(144,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C\data structure\DataStructurePractice\LinkList.c(145,34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\C\data structure\DataStructurePractice\x64\Debug\DataStructurePractice.exe : fatal error LNK1120: 1 个无法解析的外部命令

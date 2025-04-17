@@ -1,0 +1,17 @@
+﻿  create.c
+  insert.c
+  main.c
+C:\Users\fjw\source\repos\线性表总\create.c(15,3): warning C4033: “SL_create”必须返回值
+C:\Users\fjw\source\repos\线性表总\create.c(17,8): warning C4013: “time”未定义；假设外部返回 int
+C:\Users\fjw\source\repos\线性表总\main.c(10,25): warning C4101: “L”: 未引用的局部变量
+  menu.c
+C:\Users\fjw\source\repos\线性表总\menu.c(8,6): warning C4101: “select”: 未引用的局部变量
+  readData.c
+  traverse.c
+C:\Users\fjw\source\repos\线性表总\traverse.c(26,42): warning C4028: 形参 1 与声明不同
+  正在生成代码...
+C:\Users\fjw\source\repos\线性表总\readData.c(11): warning C4716: “readData”: 必须返回一个值
+C:\Users\fjw\source\repos\线性表总\menu.c(10): warning C4716: “menu”: 必须返回一个值
+C:\Users\fjw\source\repos\线性表总\create.c(28): warning C4715: “SL_create”: 不是所有的控件路径都返回值
+C:\Users\fjw\source\repos\线性表总\create.c(153): warning C4172: 返回局部变量或临时变量的地址: L
+  线性表总.vcxproj -> C:\Users\fjw\source\repos\线性表总\x64\Debug\线性表总.exe

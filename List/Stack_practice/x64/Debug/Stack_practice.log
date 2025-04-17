@@ -1,0 +1,15 @@
+﻿  ReversrPoland.c
+  BaseConversion.c
+  function.c
+C:\Users\fjw\source\repos\Stack_practice\function.c(33,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  ReversrPoland2.c
+C:\Users\fjw\source\repos\Stack_practice\ReversrPoland2.c(33,12): warning C4133: “函数”: 从“char *”到“ElemType *”的类型不兼容
+C:\Users\fjw\source\repos\Stack_practice\ReversrPoland2.c(36,13): warning C4133: “函数”: 从“char *”到“ElemType *”的类型不兼容
+C:\Users\fjw\source\repos\Stack_practice\ReversrPoland2.c(45,14): warning C4133: “函数”: 从“char *”到“ElemType *”的类型不兼容
+C:\Users\fjw\source\repos\Stack_practice\ReversrPoland2.c(47,15): warning C4133: “函数”: 从“char *”到“ElemType *”的类型不兼容
+C:\Users\fjw\source\repos\Stack_practice\ReversrPoland2.c(67,11): warning C4133: “函数”: 从“char *”到“ElemType *”的类型不兼容
+C:\Users\fjw\source\repos\Stack_practice\ReversrPoland2.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fjw\source\repos\Stack_practice\ReversrPoland2.c(20,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fjw\source\repos\Stack_practice\ReversrPoland2.c(63,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  Stack_practice.vcxproj -> C:\Users\fjw\source\repos\Stack_practice\x64\Debug\Stack_practice.exe

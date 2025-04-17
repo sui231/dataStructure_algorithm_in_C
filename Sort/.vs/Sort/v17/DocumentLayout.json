@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\\data structure\\Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|D:\\code\\C\\data structure\\Sort\\MergingSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|solutionrelative:MergingSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|D:\\code\\C\\data structure\\Sort\\HeapSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|solutionrelative:HeapSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|D:\\code\\C\\data structure\\Sort\\BubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|solutionrelative:BubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|D:\\code\\C\\data structure\\Sort\\InsertionSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|solutionrelative:InsertionSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|D:\\code\\C\\data structure\\Sort\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|solutionrelative:Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|D:\\code\\C\\data structure\\Sort\\Hash.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|solutionrelative:Hash.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|D:\\code\\C\\data structure\\Sort\\ShellSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD10BC1B-3693-426A-8DF1-B81CAAB3CD77}|Sort.vcxproj|solutionrelative:ShellSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeapSort.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Sort\\HeapSort.c",
+              "RelativeDocumentMoniker": "HeapSort.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Sort\\HeapSort.c",
+              "RelativeToolTip": "HeapSort.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T04:01:01.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MergingSort.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Sort\\MergingSort.c",
+              "RelativeDocumentMoniker": "MergingSort.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Sort\\MergingSort.c",
+              "RelativeToolTip": "MergingSort.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T03:52:27.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertionSort.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Sort\\InsertionSort.c",
+              "RelativeDocumentMoniker": "InsertionSort.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Sort\\InsertionSort.c",
+              "RelativeToolTip": "InsertionSort.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T03:52:27.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSort.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Sort\\BubbleSort.c",
+              "RelativeDocumentMoniker": "BubbleSort.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Sort\\BubbleSort.c",
+              "RelativeToolTip": "BubbleSort.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T03:52:27.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sort.h",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Sort\\Sort.h",
+              "RelativeDocumentMoniker": "Sort.h",
+              "ToolTip": "D:\\code\\C\\data structure\\Sort\\Sort.h",
+              "RelativeToolTip": "Sort.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T03:52:27.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShellSort.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Sort\\ShellSort.c",
+              "RelativeDocumentMoniker": "ShellSort.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Sort\\ShellSort.c",
+              "RelativeToolTip": "ShellSort.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T03:52:27.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hash.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Sort\\Hash.c",
+              "RelativeDocumentMoniker": "Hash.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Sort\\Hash.c",
+              "RelativeToolTip": "Hash.c",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T03:52:27.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

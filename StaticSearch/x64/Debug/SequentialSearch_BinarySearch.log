@@ -1,0 +1,7 @@
+﻿  binarySearch.c
+  main.c
+D:\C\data structure\SequentialSearch_BinarySearch\main.c(15,8): warning C4013: “time”未定义；假设外部返回 int
+  sequentialSearch.c
+  正在生成代码...
+D:\C\data structure\SequentialSearch_BinarySearch\binarySearch.c(27): warning C4715: “binarySearch1”: 不是所有的控件路径都返回值
+  SequentialSearch_BinarySearch.vcxproj -> D:\C\data structure\SequentialSearch_BinarySearch\x64\Debug\SequentialSearch_BinarySearch.exe

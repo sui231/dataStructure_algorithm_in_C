@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\\data structure\\Tree\\Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|D:\\code\\C\\data structure\\Tree\\Tree\\tree_bitree_convert1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|solutionrelative:tree_bitree_convert1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|D:\\code\\C\\data structure\\Tree\\Tree\\tree_bitree_convert.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|solutionrelative:tree_bitree_convert.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|D:\\code\\C\\data structure\\Tree\\Tree\\BiTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|solutionrelative:BiTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|D:\\code\\C\\data structure\\Tree\\Tree\\BiTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|solutionrelative:BiTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|D:\\code\\C\\data structure\\Tree\\Tree\\parent_child.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1240E58A-E3FF-4089-8387-28277C8DBCEE}|Tree.vcxproj|solutionrelative:parent_child.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tree_bitree_convert1.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Tree\\Tree\\tree_bitree_convert1.c",
+              "RelativeDocumentMoniker": "tree_bitree_convert1.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Tree\\Tree\\tree_bitree_convert1.c",
+              "RelativeToolTip": "tree_bitree_convert1.c",
+              "ViewState": "AgIAAFwAAAAAAAAAAADwv3QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T09:16:36.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tree_bitree_convert.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Tree\\Tree\\tree_bitree_convert.c",
+              "RelativeDocumentMoniker": "tree_bitree_convert.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Tree\\Tree\\tree_bitree_convert.c",
+              "RelativeToolTip": "tree_bitree_convert.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T08:28:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BiTree.h",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Tree\\Tree\\BiTree.h",
+              "RelativeDocumentMoniker": "BiTree.h",
+              "ToolTip": "D:\\code\\C\\data structure\\Tree\\Tree\\BiTree.h",
+              "RelativeToolTip": "BiTree.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-01T06:40:21.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BiTree.c",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Tree\\Tree\\BiTree.c",
+              "RelativeDocumentMoniker": "BiTree.c",
+              "ToolTip": "D:\\code\\C\\data structure\\Tree\\Tree\\BiTree.c",
+              "RelativeToolTip": "BiTree.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T06:39:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "parent_child.h",
+              "DocumentMoniker": "D:\\code\\C\\data structure\\Tree\\Tree\\parent_child.h",
+              "RelativeDocumentMoniker": "parent_child.h",
+              "ToolTip": "D:\\code\\C\\data structure\\Tree\\Tree\\parent_child.h",
+              "RelativeToolTip": "parent_child.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-01T06:39:57.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

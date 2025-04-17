@@ -1,0 +1,7 @@
+﻿  BiTree.h
+  parent_child.h
+  正在生成代码...
+  BiTree.c
+D:\C\data structure\Tree\BiTree.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+x64\Debug\BiTree.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Tree.vcxproj -> D:\C\data structure\Tree\x64\Debug\BiTree.exe
